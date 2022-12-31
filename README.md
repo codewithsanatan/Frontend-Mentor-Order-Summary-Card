@@ -24,8 +24,8 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/codewithsanatan/Frontend-Mentor-Order-Summary-Card)
-- Live Site URL: [Add live site URL here](https://order-summary-card-codewithsanatan.netlify.app)
+- Solution URL: [Solution URL here](https://github.com/codewithsanatan/Frontend-Mentor-Order-Summary-Card)
+- Live Site URL: [Live site URL here](https://order-summary-card-codewithsanatan.netlify.app)
 
 
 ### Built with
