@@ -13,6 +13,12 @@ body {
     background-image: url(images/pattern-background-desktop.svg);
     background-repeat: repeat-x;
 }
+h1 {
+    font-size: 1.5em;
+}
+h2 {
+    font-size: 1em;
+}
 .container {
     height: 550px;
     width: 350px;
@@ -35,8 +41,8 @@ img {
     color: hsl(224, 23%, 55%);
     font-weight: 500;
 }
-.summary h2,
-.pricing h4 {
+.summary h1,
+.pricing h2 {
     color: hsl(223, 47%, 23%);
     font-weight: 900;
 }
@@ -58,12 +64,12 @@ img {
     flex-grow: 1;
 }
 
-.pricing h4,
+.pricing h2,
 .pricing p {
     display: inline;
     padding: 0;
 }
-h4 {
+h2 {
     font-weight: 500;
 }
 
